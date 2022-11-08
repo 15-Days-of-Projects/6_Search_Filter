@@ -4,7 +4,7 @@ Search user by typing name in search bar
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/30-Days-of-Projects/5_Copy_To_Clipboard/blob/main/Copy_To_Clipboard.png">
+src="https://github.com/30-Days-of-Projects/6_Search_Filter/blob/main/Seach_Filter.png">
 
 - 🔭   This is the 6th project from my 30 Days of Project Repository.
 - 🔭   In this Project I have made a Search bar which helps user to search anything on the specific page.
